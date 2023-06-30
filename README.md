@@ -22,6 +22,7 @@ We would like to express our gratitude to the open-source community and the cont
 Special thanks to the developers and maintainers of the libraries and frameworks used in this project, without which EVA would not have been feasible.
 
 Thank you for choosing EVA! We hope you find it helpful and enjoy using it as much as we enjoyed building it.
+[UNDER DEVELOPMENT NEW UPDATES SOON]
 
 
 
