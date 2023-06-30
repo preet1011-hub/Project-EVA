@@ -39,7 +39,7 @@ def open_camera():
 
 
 # todo: Add your api key here
-apikey = "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"
+apikey = "ENTER YOUR API KEY"
 chatStr = ""
 
 # Jokes data
