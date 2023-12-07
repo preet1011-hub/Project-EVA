@@ -14,7 +14,7 @@ License
 EVA is released under the MIT License. You are free to use, modify, and distribute this software as per the terms of the license.
 
 Contact
-If you have any questions, suggestions, or feedback, feel free to contact the EVA team at apgroups101@gmail.com. We'd love to hear from you!
+If you have any questions, suggestions, or feedback, feel free to contact the EVA team at preetpatel0987654321od@gmail.comWe'd love to hear from you!
 
 Acknowledgments
 We would like to express our gratitude to the open-source community and the contributors who have helped make EVA possible.
